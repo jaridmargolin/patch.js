@@ -1,0 +1,8 @@
+{
+  "fileName": "patch",
+  "globalAlias": "patch",
+  "exclude": ["underscore"],
+  "dependencies": {
+    "default": ["underscore"]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "patch.js",
+  "description": "Apply a single or multiple patches to an object.",
+  "author": "Jarid Margolin <jaridmargolin@gmail.com>",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jaridmargolin/patch.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaridmargolin/patch.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jaridmargolin/patch.js/issues"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "main": "dist/common/patch.js",
+  "devDependencies": {
+    "easy-build": "~0.1.1",
+    "proclaim": "~2.0.0",
+    "sinon": "~1.10.1"
+  },
+  "dependencies": {
+    "underscore": "~1.6.0"
+  },
+  "license": "MIT"
+}
